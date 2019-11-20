@@ -10,3 +10,8 @@ Below is a list of my technical skills
 - HTML
 - CSS/Bootstrap
 - JavaScript/JQuery
+
+## Databases
+- SQL
+- SQLite
+- MySQL
